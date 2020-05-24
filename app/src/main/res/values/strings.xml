@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyWebBrowser</string>
+    <string name="http">http://</string>
+    <string name="네이버">네이버</string>
+    <string name="구글">구글</string>
+    <string name="다음카카오">다음카카오</string>
+    <string name="개발자정보">개발자정보</string>
+    <string name="전화하기">전화하기</string>
+    <string name="문자보내기">문자보내기</string>
+    <string name="이메일보내기">이메일 보내기</string>
+    <string name="검색사이트">검색 사이트</string>
+</resources>
